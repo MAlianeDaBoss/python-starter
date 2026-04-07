@@ -5,3 +5,6 @@ The aim of this repo is to teach Manal how to code in Python.
 We start with the tutorial, and that is Hello World, before we get to the tough stuff.
 
 Lots of love from Rayan, love you Manal,
+
+
+aku sayang kamu kuga sayang
